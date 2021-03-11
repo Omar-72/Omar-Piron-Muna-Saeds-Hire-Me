@@ -1,0 +1,45 @@
+.one {
+    border-radius: 150px;
+    width: 300px;
+    height: 300px;
+}
+
+.college {
+    width: 190px;
+    height: 190px;
+}
+
+.pic-one {
+    border: 1px solid #00eeff;
+    display: flex;
+    justify-content: center;
+}
+
+.ice {
+    width: 190px;
+    height: 190px;
+}
+
+.pic-t {
+    border: 1px solid#00eeff;
+    display: flex;
+    justify-content: center;
+}
+
+.fert {
+    color: #850485;
+    font-family: 'Merriweather', serif;
+}
+
+.code {
+    color: #1ec918;
+}
+
+.purple {
+    color: #850485;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+body {
+    background-color: #00eeff;
+}
